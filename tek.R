@@ -1,4 +1,10 @@
-
+install.packages("shiny")
+install.packages("DT")
+install.packages("shinydashboard")
+install.packages("e1071")
+install.packages("dplyr")
+install.packages("xgboost")
+install.packages("shinydashboardPlus")
 library(shiny)
 library(DT)
 library(shinydashboard)
