@@ -23,7 +23,7 @@ shinyApp(
     dashboardSidebar(
       width = 300,
       sidebarMenu(
-        menuItem("Laptop Recommendation Service", tabName = "dashboard", icon = icon("dashboard")),
+        menuItem("Warranty Recommendation Service", tabName = "dashboard", icon = icon("dashboard")),
         menuItem("Revenue", tabName = "widgets", icon = icon("th"))
       )
     ),
